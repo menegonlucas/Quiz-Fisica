@@ -8,3 +8,6 @@ Feito por Lucas Menegon e Eloá Florêncio
 
 ## O programa foi testado pelo professor Wellington no dia 14/02/2025, com as seguintes sugestões de melhoria:
 Comentário: sugestão para adicionar um som de 'certa resposta' e 'reposta errada'.
+
+## COMENTÁRIOS DO PROFESSOR EDERSON SOBRE O APP:
+Aplicativo bonito e questões bacanas.
